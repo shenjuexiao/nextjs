@@ -2,8 +2,6 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   /* config options here */
-  /* 20260820 */
-  output: 'export',
 };
 
 export default nextConfig;
